@@ -16,11 +16,6 @@ ___NOTE___ The `description` parameter must be path-friendly or things might bre
 
 ___NOTE___ The timestamp-to-string thing might misbehave in some locale scenarios.
 
-## Serveringsförslag
-
-I have the `backup.bat` bound to a macro key on my keyboard, like so:
-![image](https://user-images.githubusercontent.com/1238405/120403333-45bae200-c344-11eb-8d49-257e50fd00f1.png) 🤷‍♂️
-
 # restore.bat
 
 ## Usage
